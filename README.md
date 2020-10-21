@@ -1,2 +1,2 @@
 # its-aws-for-godsake
-CI/CD, Pipeline, CodeDeploy, etc.
+CI/CD, CodePipeline, CodeDeploy, etc.
